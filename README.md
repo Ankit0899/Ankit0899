@@ -17,7 +17,8 @@
 - 💻 Roles: **Software Engineer | Data Analytics | BI Developer**
 - 🌱 Currently learning **advanced backend development & data visualization**
 - 💬 Ask me about **Python, FastAPI, Power BI, SQL, Excel, Flask, Data Analytics**
-- 📫 How to reach me: [Check my portfolio](https://ankit0899.github.io/Ankit_Portfolio/)
+- 📫 How to reach me: [ankitadlak2812@gmail.com](mailto:ankitadlak2812@gmail.com)  
+  or [Visit my Portfolio](https://ankit0899.github.io/Ankit_Portfolio/)
 
 ---
 

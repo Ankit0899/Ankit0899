@@ -25,7 +25,7 @@
 ### 🚀 Tech Stack & Skills
 
 **💻 Programming Languages**
-- Python | SQL | MySQL | C++
+- Python | SQL | MySQL | C/C++
 
 **🛠️ Frameworks & Libraries**
 - Flask | FastAPI | NumPy | Pandas | Matplotlib | Seaborn

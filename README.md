@@ -54,5 +54,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub+profile!;I'm+Ankit+Adlak+%F0%9F%91%8B;Software+Engineer+%7C+Analytics+%7C+Pythonista;Let's+build+something+awesome+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub+profile!;I'm+Ankit+Adlak+%F0%9F%91%8B;Software+Engineer+%7C+Analytics;Let's+build+something+awesome+%F0%9F%9A%80" />
 </p>
